@@ -13,3 +13,9 @@ You can then use a screw to hold the cuvette in place.
   The length is perfect to prevent overtightening the screw too much by users and damaging the basket
   or cuvette.
 - The tapping bit is "Chip-Clearing Tap for Through Holes TiCN Coated High-Speed Steel, M3 x 0.5 mm Thread" (`2605A21` from mcmaster).
+
+Cuvette
+-------
+
+- The cuvette for the standard size is 12.5 x 12.5 x 45 mm on the outside.
+- The 20mm cuvette is 45 x 12.5 x 22.5 mm outside (`QF54`/`QF5402` at [cotslab](https://cotslab.com/product/qf54-20mm-lightpath-7ml-dual-path-lengths-quartz-fluorometer-cuvettes-with-ptfe-covers/)).

@@ -19,3 +19,10 @@ Cuvette
 
 - The cuvette for the standard size is 12.5 x 12.5 x 45 mm on the outside.
 - The 20mm cuvette is 45 x 12.5 x 22.5 mm outside (`QF54`/`QF5402` at [cotslab](https://cotslab.com/product/qf54-20mm-lightpath-7ml-dual-path-lengths-quartz-fluorometer-cuvettes-with-ptfe-covers/)).
+
+Printing
+--------
+
+For 3D printing, we found [shapeways](https://www.shapeways.com) to be the most cost effective for the basket and good quality.
+We used `Gray PA12 Glass Beads` for the material and it's sturdy. It's best not to use any dye options to color it
+because we found an instance where the dye dissolved into the solutions.
